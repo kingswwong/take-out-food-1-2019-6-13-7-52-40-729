@@ -1,6 +1,6 @@
 function loadAllItems() {
   return [{
-    id: 'ITEM0001',
+      id: 'ITEM0001',
     name: '黄焖鸡',
     price: 18.00
   }, {
